@@ -1,0 +1,9 @@
+name: map_app
+account: thorjonsson
+server: shinyapps.io
+appId: 64501
+bundleId: 290161
+url: https://thorjonsson.shinyapps.io/map_app
+when: 1445096083.97824
+asMultiple: FALSE
+asStatic: FALSE
